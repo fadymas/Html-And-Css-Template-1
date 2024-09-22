@@ -140,7 +140,7 @@ section.intro {
   margin-inline: 0px;
   margin-block: 0px;
   padding: 0px;
-  background-image: url(/imgs/landing.jpg);
+  background-image: url(../imgs/landing.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
